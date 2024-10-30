@@ -1,0 +1,138 @@
+# Copyright (C) 2016 igmoweb
+# This file is distributed under the same license as the Let Them Unsubscribe package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Let Them Unsubscribe\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/let-them-unsubscribe\n"
+"POT-Creation-Date: 2016-07-06 18:05:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ignacio\n"
+"Language-Team: Ignacio Cruz\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: admin/settings-menu.php:22
+msgid "Users who can delete their profiles"
+msgstr ""
+
+#: admin/settings-menu.php:23
+msgid "Select one or more roles"
+msgstr ""
+
+#: admin/settings-menu.php:25
+msgid "Options"
+msgstr ""
+
+#: admin/settings-menu.php:26
+msgid "Text displayed on Delete Profile Page"
+msgstr ""
+
+#: admin/settings-menu.php:27
+msgid "Text displayed once the user has deleted his profile"
+msgstr ""
+
+#: admin/settings-menu.php:29
+msgid "Misc"
+msgstr ""
+
+#: admin/settings-menu.php:30
+msgid "Redirect to page"
+msgstr ""
+
+#: admin/settings-menu.php:83
+msgid "-- Select a page --"
+msgstr ""
+
+#: admin/settings-menu.php:88
+msgid "Redirect to this page instead of display the text."
+msgstr ""
+
+#: admin/settings-menu.php:131
+msgid "<strong>Info text</strong> field must not be empty"
+msgstr ""
+
+#: admin/settings-menu.php:143
+msgid "<strong>End text</strong> field must not be empty"
+msgstr ""
+
+#: admin/unsubscribe-menu.php:18
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/unsubscribe-menu.php:23
+msgid "Yes, delete my account"
+msgstr ""
+
+#: admin/unsubscribe-menu.php:57
+msgid "Go to home page"
+msgstr ""
+
+#: admin/user-profile.php:9
+msgid "Delete my account"
+msgstr ""
+
+#: inc/helpers.php:8
+msgid "Attention: All your data will be deleted!"
+msgstr ""
+
+#: inc/helpers.php:9
+msgid "We will miss you"
+msgstr ""
+
+#: inc/widget.php:11
+msgid "Displays a link that leads to the Unsubscribe Admin Screen"
+msgstr ""
+
+#: inc/widget.php:38 inc/widget.php:74 let-them-unsubscribe.php:105
+#: let-them-unsubscribe.php:106
+msgid "Delete your account"
+msgstr ""
+
+#: inc/widget.php:41
+msgid "Your profile"
+msgstr ""
+
+#: inc/widget.php:81
+msgid "Title:"
+msgstr ""
+
+#: inc/widget.php:85
+msgid "Link CSS class:"
+msgstr ""
+
+#: inc/widget.php:88
+msgid ""
+"If the user is not allowed to delete its account, the link will lead to its "
+"profile page."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Let Them Unsubscribe"
+msgstr ""
+
+#: let-them-unsubscribe.php:95
+msgid "Let Them Unsubscribe Settings"
+msgstr ""
+
+#: let-them-unsubscribe.php:96 let-them-unsubscribe.php:107
+msgid "You do not have enough permissions to access to this page"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/let-them-unsubscribe/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Let the users delete their accounts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "igmoweb"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.igmoweb.com"
+msgstr ""

@@ -1,0 +1,154 @@
+# Copyright (C) 2016 igmoweb
+# This file is distributed under the same license as the Let Them Unsubscribe package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Let Them Unsubscribe\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/let-them-unsubscribe\n"
+"POT-Creation-Date: 2016-07-06 20:04+0200\n"
+"PO-Revision-Date: 2016-07-06 20:04+0200\n"
+"Last-Translator: Ignacio\n"
+"Language-Team: Ignacio Cruz\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/settings-menu.php:22
+msgid "Users who can delete their profiles"
+msgstr "Usuarios que pueden borrar sus perfiles"
+
+#: admin/settings-menu.php:23
+msgid "Select one or more roles"
+msgstr "Selecciona uno o más roles"
+
+#: admin/settings-menu.php:25
+msgid "Options"
+msgstr "Ajustes"
+
+#: admin/settings-menu.php:26
+msgid "Text displayed on Delete Profile Page"
+msgstr "Texto mostrado en la página de borrado de perfil"
+
+#: admin/settings-menu.php:27
+msgid "Text displayed once the user has deleted his profile"
+msgstr "Texto mostrado una vez el usuario ha aceptado borrar su perfil"
+
+#: admin/settings-menu.php:29
+msgid "Misc"
+msgstr "Miscelánea"
+
+#: admin/settings-menu.php:30
+msgid "Redirect to page"
+msgstr "Redirigir a una página"
+
+#: admin/settings-menu.php:83
+msgid "-- Select a page --"
+msgstr "— Seleccionar página —"
+
+#: admin/settings-menu.php:88
+msgid "Redirect to this page instead of display the text."
+msgstr "Redireccionar a esta página en lugar de mostrar el texto."
+
+#: admin/settings-menu.php:131
+msgid "<strong>Info text</strong> field must not be empty"
+msgstr ""
+"<strong>Texto mostrado en la página de borrado de perfil</strong> El campo no puede "
+"estar vacío"
+
+#: admin/settings-menu.php:143
+msgid "<strong>End text</strong> field must not be empty"
+msgstr ""
+"<strong> Texto mostrado una vez el usuario ha aceptado borrar su perfil</strong> El "
+"campo no puede estar vacío"
+
+#: admin/unsubscribe-menu.php:18
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: admin/unsubscribe-menu.php:23
+msgid "Yes, delete my account"
+msgstr "Sí, quiero borrar mi perfil"
+
+#: admin/unsubscribe-menu.php:57
+msgid "Go to home page"
+msgstr "Ir a página de inicio"
+
+#: admin/user-profile.php:9
+msgid "Delete my account"
+msgstr "Borrar mi perfil"
+
+#: inc/helpers.php:8
+msgid "Attention: All your data will be deleted!"
+msgstr "Atención: Todos tus datos se borrarán"
+
+#: inc/helpers.php:9
+msgid "We will miss you"
+msgstr "Te echaremos de menos"
+
+#: inc/widget.php:11
+msgid "Displays a link that leads to the Unsubscribe Admin Screen"
+msgstr "Muestra un enlace que redirige a la página de borrado de perfil"
+
+#: inc/widget.php:38 inc/widget.php:74 let-them-unsubscribe.php:105
+#: let-them-unsubscribe.php:106
+msgid "Delete your account"
+msgstr "Borrar tu perfil"
+
+#: inc/widget.php:41
+msgid "Your profile"
+msgstr "Tu perfil"
+
+#: inc/widget.php:81
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widget.php:85
+msgid "Link CSS class:"
+msgstr "Clase CSS del enlace:"
+
+#: inc/widget.php:88
+msgid ""
+"If the user is not allowed to delete its account, the link will lead to its profile "
+"page."
+msgstr ""
+"Si el usuario no tiene permitido el borrado de su perfil, el enlace le llevará a su "
+"página de perfil."
+
+#. Plugin Name of the plugin/theme
+msgid "Let Them Unsubscribe"
+msgstr ""
+
+#: let-them-unsubscribe.php:95
+msgid "Let Them Unsubscribe Settings"
+msgstr "Ajustes de Let Them Unsubscribe"
+
+#: let-them-unsubscribe.php:96 let-them-unsubscribe.php:107
+msgid "You do not have enough permissions to access to this page"
+msgstr "No tienes suficientes permisos para acceder a esta página"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/let-them-unsubscribe/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Let the users delete their accounts"
+msgstr "Permite que los usuarios puedan borrar sus perfiles"
+
+#. Author of the plugin/theme
+msgid "igmoweb"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.igmoweb.com"
+msgstr ""
+
+#~ msgid "Text showed on Delete Profile Page"
+#~ msgstr "Texto mostrado en la página de borrado de perfil"
+
+#~ msgid "Text showed once the user has deleted his profile"
+#~ msgstr "Texto mostrado una vez el usuario ha aceptado borrar su perfil"
+
+#~ msgid "Save Settings"
+#~ msgstr "Guardar Ajustes"
